@@ -3,8 +3,8 @@ WebApp for Code.fun.do++ by Team Sooners<br>
 ## Team Members
 
 - <a href=" https://github.com/mihirsakaria">Mihir Sakaria</a>
-- <a href="">Utpal Gupta</a>
-- <a href="">Masoom Raj</a>
+- <a href="https://github.com/utpal58">Utpal Gupta</a>
+- <a href="https://github.com/maasoomraj">Masoom Raj</a>
 
 ## Problem
 In this fast growing world, we still stand in a queue for hours to apply for Voter-ID card. Also it take hours for us to cast our vote. Even sometimes, hooligans creates problem at polling booth and also tampers the EVM.<br>
